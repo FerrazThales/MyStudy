@@ -1,6 +1,12 @@
-Live Cassio Bolba
+Live Cassio Bolba:
 
-
+- Escolher horários em que é mais produtivo. 1h produtivo > 5h não produtivo (rendimento)
+- Evitar distrações durante o período de estudo (barulho, celular, etc)
 - Utilizar Pomodoro: Tempo Atual (50 minutos) -> lembrar de colocar o intervalo
 - Fazer o planejamento do estudo. Criar um planner de estudo:
-    * Fazer uma tabela do Excel
+    * Fazer uma tabela no Excel
+    * Ser específico com Datas.
+- Traçar metas e estabelecer recompensas.
+
+
+- Ter metas financeiras (tentar usar a API do banco para fazer um dash)
